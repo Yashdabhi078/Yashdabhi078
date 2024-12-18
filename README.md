@@ -12,7 +12,7 @@
 
 - 💬 Ask me about anything [here](https://github.com/Yashdabhi078/Yashdabhi078/issues)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="12%" /><br>
 
 - 🔭 **Currently working on**: Building scalable and secure backend systems.
 - 🤝 **Open to collaborating on**: Backend projects, microservices, or data engineering initiatives.
@@ -32,3 +32,11 @@
 <div align="center">
 <img src="https://raw.githubusercontent.com/Yashdabhi078/Yashdabhi078/output/snake.svg" alt="Snake animation" />
 </div>
+
+<br>
+
+<hr></hr>
+<div align="center">
+
+<!-- visitagain.svg -->
+<img height="120" alt="Thanks for visiting me" width="100%" src="./static/visitagain.svg"/>
