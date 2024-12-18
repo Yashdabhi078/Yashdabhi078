@@ -1,4 +1,6 @@
-### Hi there, I'm Yash Dabhi, Skilled in Python, Node.js, AWS, and database management.
+### Hi there, I'm Yash Dabhi,
+
+**Backend Developer | Skilled in Python, Node.js, AWS, and Data Engineering**
 
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-Yash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashdabhi078)](https://www.linkedin.com/in/yashdabhi078)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yash_dabhi?label=Follow)](https://x.com/YashDabhi8)
@@ -12,14 +14,16 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- :telescope: I'm currently learning machine learning:
-- :microscope: Always ready to collaborate for Dev Experiments
-- :man_technologist: Web Team Member at Developer Student Club and HackGujarat
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- 🔭 **Currently working on**: Building scalable and secure backend systems.
+- 🤝 **Open to collaborating on**: Backend projects, microservices, or data engineering initiatives.
+- 🚀 **My philosophy**: "Transform challenges into opportunities through continuous learning."
+
+<br />
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashdabhi078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashdabhi078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashdabhi078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="170" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashdabhi078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="170" alt="languages graph"  />
 </div>
 
 ###
