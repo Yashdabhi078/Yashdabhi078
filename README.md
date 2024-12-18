@@ -17,39 +17,15 @@
 - :man_technologist: Web Team Member at Developer Student Club and HackGujarat
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
 
-**Languages and Tools:**
-
-<!-- Zero width character is used to put extra blank lines before and after code -->
-
-<h3>
-
-```python
-​
-from dataclasses import dataclass
-from typing import Tuple
-
-@dataclass
-class Stack:
-    languages   : Tuple[str, ...] = ("Python", "C", "C#","Java","PHP","NodeJs")
-    databases   : Tuple[str, ...] = ("MariaDB", "MongoDB","MySQL")
-    frameworks  : Tuple[str, ...] = ("Django", "Laravel","Angular")
-
-
-​
-```
-
-</h3>
-
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yashdabhi078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="210" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashdabhi078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="210" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashdabhi078&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yashdabhi078&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
-
+<div align="center">
 <img src="https://raw.githubusercontent.com/Yashdabhi078/Yashdabhi078/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
